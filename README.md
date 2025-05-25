@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Prikshit 👋
 
-<!--
-**kprikshit/kprikshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** with over **10 years of experience** in the industry. My main tools are **Java** and **Spring Boot**, and I thrive on building robust, scalable systems that make a difference.
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills
+- Java
+- Spring Boot
+- System Design
+- Scalable Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 10 years of hands-on experience in software development.
+- Love building systems at scale and solving complex engineering challenges.
+- Advocate for clean code, performance, and reliability.
+- Always eager to learn new technologies and share knowledge with others.
+
+## 🌱 Currently Exploring
+- Cloud-native architectures
+- Distributed systems
+- Performance optimization
+
+## 📫 Get in touch
+Planning to add my LinkedIn and more ways to connect soon!
+
+---
+
+> “Great systems are built one thoughtful decision at a time.”
+
+Thanks for stopping by! 👏
