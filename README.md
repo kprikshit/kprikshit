@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer** with over **10 years of experience** in t
 - Performance optimization
 
 ## 📫 Get in touch
-Planning to add my LinkedIn and more ways to connect soon!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kprikshit-blue?logo=linkedin)](https://www.linkedin.com/in/kprikshit/)
 
 ---
 
