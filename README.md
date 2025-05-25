@@ -1,4 +1,4 @@
-# Hi there, I'm Prikshit 👋
+# Hi there, I'm Prikshit Kumar 👋
 
 I'm a passionate **Software Engineer** with over **10 years of experience** in the industry. My main tools are **Java** and **Spring Boot**, and I thrive on building robust, scalable systems that make a difference.
 
