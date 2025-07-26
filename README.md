@@ -34,3 +34,5 @@ I'm a passionate **Software Engineer** with over **10 years of experience** in t
 > “Great systems are built one thoughtful decision at a time.”
 
 Thanks for stopping by! 👏
+---
+LLM Usage
