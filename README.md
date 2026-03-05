@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** with over **10 years of experience** in t
 
 ## 🏢 Prior Organizations
 
-- <img src="https://brand.jumio.com/wp-content/themes/understrap-child/images/brand-elements/brand-icon/jumio-brand-s2.svg" alt="Jumio" height="24" style="vertical-align:middle; margin-right:8px;" /> &nbsp; **Jumio**
+- <img src="https://avatars.githubusercontent.com/u/8918947?s=200&v=4" alt="Jumio" height="24" style="vertical-align:middle; margin-right:8px;" /> &nbsp; **Jumio**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Meesho_logo.png?20230923160934" alt="Meesho" height="24" style="vertical-align:middle; margin-right:8px;" /> &nbsp; **Meesho**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" height="24" style="vertical-align:middle; margin-right:8px;" /> &nbsp; **HackerEarth**
 
